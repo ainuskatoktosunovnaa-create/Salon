@@ -8,7 +8,7 @@ function Headers(){
     return (
       <header>
         <div id="header">
-          /* <div className="container">
+           <div className="container">
             <div className="header">
               <img src={Logo} alt="" />
               <nav>

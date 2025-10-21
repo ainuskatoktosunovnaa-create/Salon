@@ -1,0 +1,30 @@
+.hero{
+    margin: 50px 0;
+    background-image: url(../../assets/foto1.png);
+    height: 550px;
+    background-size: cover;
+
+    h1{
+        font-weight: 400;
+        font-size: 98px;
+        padding-left: 30px;
+        color: #404040;
+       margin: 0 0 189px 0;
+    }
+    
+    p{
+        color: #544948;
+        font-size: 16px;
+        font-weight: 400;
+        font-family: sans-serif;
+        padding-left: 30px;
+    }
+    button{
+        width: 324px;
+        height: 62px;
+        border: none;
+        border-radius: 10px;
+        margin-left :30px;
+    }
+
+}

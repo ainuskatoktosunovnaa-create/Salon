@@ -1,0 +1,19 @@
+.hero2 {
+    display: flex;
+    gap: 30px;
+  button {
+    width: 570px;
+    height: 80px;
+    font-size: 24px;
+    font-weight: 400;
+    color: #444444;
+    font-family: sans-serif;
+    border: none;
+    background-color: #f7dcd7;
+    border-radius: 15px;
+    cursor: pointer;
+  }
+  button:hover{
+    background-color: #eabbb2;
+  }
+}
